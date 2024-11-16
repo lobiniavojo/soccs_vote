@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315027320358",
+    "project_id": "soccs-vote",
+    "storage_bucket": "soccs-vote.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315027320358:android:b77fb191d0e77ad19ec0e7",
+        "android_client_info": {
+          "package_name": "com.example.voting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF6DDWPHgyFcktq2GJ9yt9x2uJE16rhpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
